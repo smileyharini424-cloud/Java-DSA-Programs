@@ -1,4 +1,4 @@
-public class Main
+public class FindMaximum
 {
 	public static void main(String[] args) {
 		int[] arr = {10,25,5,40,15};
